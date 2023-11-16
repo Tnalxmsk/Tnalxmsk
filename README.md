@@ -1,6 +1,8 @@
+### Tech Stack
 <div>
 <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
 <img src="https://img.shields.io/badge/Anroid-white?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Android studio-white?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Intellij idea-white?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
 </div>
