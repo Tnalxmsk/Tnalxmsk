@@ -1,5 +1,7 @@
-### Tech Stack
+
 <div>
+<h3>Tech<h3/>
+<hr/>
 <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
 <img src="https://img.shields.io/badge/Anroid-white?style=for-the-badge&logo=android&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
@@ -10,7 +12,7 @@
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tnalxmsk&show_icons=true&theme=ambient_gradient"/>
-
+&nbsp &nbsp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnalxmsk&layout=compact&theme=ambient_gradient"/>
 
 </div>
