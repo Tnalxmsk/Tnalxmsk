@@ -1,9 +1,14 @@
-### Hi there 👋
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnalxmsk&show_icons=true&theme=ambient_gradient)
+<div>
+<img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Anroid-white?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Androidstudio-white?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
+</div>
+  <br/>
+<div align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnalxmsk&layout=compact&theme=ambient_gradient)
+<img src="https://github-readme-stats.vercel.app/api?username=Tnalxmsk&show_icons=true&theme=ambient_gradient"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnalxmsk&layout=compact&theme=ambient_gradient"/>
 
 </div>
 <!--
