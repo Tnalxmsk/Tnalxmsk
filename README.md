@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTnalxmsk&count_bg=%23941EC4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div>
+<div align="center">
 <h3>🔧Tech Stack🔧<h3/>
 <hr/>
 <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
@@ -11,9 +11,11 @@
 <hr/>
 </div>
   <br/>
-
+<div>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cty0604)](https://solved.ac/cty0604/)
 
+</div>
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tnalxmsk&show_icons=true&theme=ambient_gradient"/>
