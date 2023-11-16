@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnalxmsk&layout=compact&theme=ambient_gradient"/>
 </div>
 
-<div align="center">
+<div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cty0604)](https://solved.ac/cty0604/)
 
