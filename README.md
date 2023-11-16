@@ -10,6 +10,9 @@
 <hr/>
 </div>
   <br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cty0604)](https://solved.ac/cty0604/)
+
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tnalxmsk&show_icons=true&theme=ambient_gradient"/>
