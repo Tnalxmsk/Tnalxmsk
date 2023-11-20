@@ -9,7 +9,7 @@
 
 🔧Tech Stack🔧
  - 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
 <img src="https://img.shields.io/badge/Anroid-white?style=for-the-badge&logo=android&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
