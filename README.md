@@ -28,7 +28,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnalxmsk&layout=compact&theme=ambient_gradient"/>
 </div>
 
-<img src="https://github.com/Tnalxmsk/Tnalxmsk/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <!--
@@ -44,4 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/Tnalxmsk/Tnalxmsk/blob/output/github-contribution-grid-snake.svg"/>
 -->
