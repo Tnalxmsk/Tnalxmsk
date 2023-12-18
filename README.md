@@ -1,6 +1,12 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTnalxmsk&count_bg=%23941EC4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+Experience
+-
+- University MakeUs Challenge 3rd Android - 2022.09 ~ 2023.02
+- University MakeUs Challenge 4th Server Spring - 2023.03 ~ 2023.08
+- Google Developer Student Clubs 1st Mobile - 2023.09 ~ ing
  
-🔧Tech Stack🔧
+Tech Stack
  -
  
 <div align="left">
