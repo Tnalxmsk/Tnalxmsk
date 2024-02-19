@@ -5,6 +5,8 @@ Experience
 - University MakeUs Challenge 3rd Android - 2022.09 ~ 2023.02
 - University MakeUs Challenge 4th Server Spring - 2023.03 ~ 2023.08
 - Google Developer Student Clubs 1st Mobile - 2023.09 ~ ing
+- Goormthon Univ. 2nd Front Android - 2024.03 ~ ing 
+- Wagle Hackathon 2nd Front Android - 2024.02.16 ~ 2024.02.17
  
 Tech Stack
  -
