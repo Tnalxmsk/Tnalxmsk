@@ -25,11 +25,10 @@ Tech Stack
  -
  
 <div align="left">
-<img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
-<img src="https://img.shields.io/badge/Anroid-white?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android studio-white?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/Intellij idea-white?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
