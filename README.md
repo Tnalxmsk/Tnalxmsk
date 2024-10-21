@@ -19,7 +19,7 @@
 - Wagle Hackathon 2nd Front Android - 2024.02.16 ~ 2024.02.17
 - goormthon univ 2nd Front - 2024.02. ~ 2024.08
 - goormthon univ 3rd 학교 대표 및 Front - 2024.08 ~ ing
-- 가천대 창업대학 GCS 4기 및 학부제 - 2024.03 ~ ing
+- GachonUniv 창업대학 GCS 4기 및 학부제 - 2024.03 ~ ing
 - University MakeUs Challenge 7th Web React - 2024.03 ~ ing
  
 Tech Stack
