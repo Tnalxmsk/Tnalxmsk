@@ -1,27 +1,5 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTnalxmsk&count_bg=%23941EC4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Experience
-
-**2022**
-
-- 가천대학교 교내 프로그램 창의 NTree **미래상** 수상
-- University MakeUs Challenge 3rd Android - 2022.09 ~ 2023.02
-- UMC 3rd Demoday Android Application Pureum **대상** 수상
-
-**2023**
-
-- University MakeUs Challenge 4th Server Spring - 2023.03 ~ 2023.08
-- Google Developer Student Clubs 1st Mobile - 2023.09 ~ 2024.07
-- GDSC Solution Challenge Application Cohaus - 2023.12 ~ 2024.02.25
-
-**2024**
-
-- Wagle Hackathon 2nd Front Android - 2024.02.16 ~ 2024.02.17
-- goormthon univ 2nd Front - 2024.02. ~ 2024.08
-- goormthon univ 3rd 학교 대표 및 Front - 2024.08 ~ ing
-- GachonUniv 창업대학 GCS 4기 및 학부제 - 2024.03 ~ ing
-- University MakeUs Challenge 7th Web React - 2024.03 ~ ing
- 
 Tech Stack
  -
  
