@@ -17,7 +17,7 @@ Tech Stack
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tnalxmsk&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Tnalxmsk"
   width="600"
