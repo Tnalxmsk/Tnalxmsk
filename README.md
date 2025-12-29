@@ -36,11 +36,6 @@ Tech Stack
 
 </div>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Tnalxmsk&show_icons=true&theme=ambient_gradient"/>
-&nbsp
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnalxmsk&layout=compact&theme=ambient_gradient&hide=jupyter%20notebook"/>
-</div>
-
 
 
 <!--
