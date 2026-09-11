@@ -11,11 +11,11 @@
 
 ### Contributions
 
-- **[React Hook Form](https://github.com/react-hook-form/react-hook-form/pull/13728)**
-- **[es-toolkit](https://github.com/toss/es-toolkit/pull/2074)**
-- **[Zustand](https://github.com/pmndrs/zustand/discussions/3577)**
-- **[TanStack Query](https://github.com/TanStack/query/issues/11451)**
-- **[Next.js](https://github.com/vercel/next.js/issues/98405)**
+- **[react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/13728)**
+- **[toss/es-toolkit](https://github.com/toss/es-toolkit/pull/2074)**
+- **[pmndrs/zustand](https://github.com/pmndrs/zustand/discussions/3577)**
+- **[TanStack/query](https://github.com/TanStack/query/issues/11451)**
+- **[vercel/next.js](https://github.com/vercel/next.js/issues/98405)**
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tnalxmsk&utm_content=farm">
 <img
