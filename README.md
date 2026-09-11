@@ -1,21 +1,22 @@
-Tech Stack
+## Tech Stack
  -
  
 <div align="left">
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android studio-white?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
- <br/>
  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
- <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
  <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
+
+## Contributions
+
+- **[React Hook Form](https://github.com/react-hook-form/react-hook-form/pull/13728)**
+- **[es-toolkit](https://github.com/toss/es-toolkit/pull/2074)**
+- **[Zustand](https://github.com/pmndrs/zustand/discussions/3577)**
+- **[TanStack Query](https://github.com/TanStack/query/issues/11451)**
+- **[Next.js](https://github.com/vercel/next.js/issues/98405)**
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tnalxmsk&utm_content=farm">
 <img
