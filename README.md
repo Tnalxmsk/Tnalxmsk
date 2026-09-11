@@ -1,4 +1,4 @@
-## Tech Stack
+### Tech Stack
  -
  
 <div align="left">
@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-## Contributions
+### Contributions
 
 - **[React Hook Form](https://github.com/react-hook-form/react-hook-form/pull/13728)**
 - **[es-toolkit](https://github.com/toss/es-toolkit/pull/2074)**
