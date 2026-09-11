@@ -17,6 +17,8 @@
 - **[TanStack/query](https://github.com/TanStack/query/issues/11451)**
 - **[vercel/next.js](https://github.com/vercel/next.js/issues/98405)**
 
+<br/>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tnalxmsk&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Tnalxmsk"
